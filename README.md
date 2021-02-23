@@ -1,2 +1,1 @@
-# pw_Perputakaan
-Program perpustakaan sederhana menggunakan php native.
+# wpm_perpustakaan
